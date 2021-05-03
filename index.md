@@ -37,7 +37,7 @@ layout: about
 
   |프로젝트명|기간|설명|사용 기술|
   |:-------|:-------|:-------|:-------|
-  |Auto Labeling System|2020-01 ~ 2020-05|머신러닝 1차 라벨링한 이미지의 라벨링을 웹에서 수정, 관리|HTML5(canvas), CSS,Thymeleaf, javascript, jQuery, Bootstrap, MongoDB|
+  |Auto Labeling System|2020-01 ~ 2020-05|머신러닝 1차 라벨링한 이미지의 라벨링을 웹에서 수정, 관리<br>[Labeling Tool](https://github.com/minilgl/auto_labeling)|HTML5(canvas), CSS,Thymeleaf, javascript, jQuery, Bootstrap, Cropper.js, MongoDB|
   |ITS BIKE POC|2020-09 ~ 2021-02|이륜차 위반 데이터 웹 제공|HTML, CSS, Thymeleaf, javascript, jQuery, Bootstrap, MongoDB|
 
 
@@ -62,7 +62,7 @@ layout: about
   |프로젝트명|기간|설명|사용 기술|
   |:-------|:-------|:-------|:-------|
   |교원 - 교원 AI|2018-06 ~ 2018-10|Restful API 개발|java, Spring, GraphDB|
-  |더존비즈온 - DBS|2018-01 ~ 2018-04|D-Business School(경영 교육 시뮬레이션 프로그램) 웹 학습하기, 포럼, 메모 개발<br>http://dbs.douzone.com/)|HTML, CSS, javascript, jQuery, MariaDB, java|
+  |더존비즈온 - DBS|2018-01 ~ 2018-04|D-Business School(경영 교육 시뮬레이션 프로그램) 웹 학습하기, 포럼, 메모 개발<br>[D-Business School](http://dbs.douzone.com/)|HTML, CSS, javascript, jQuery, MariaDB, java|
   |경찰청 - 범죄분석 시스템|2017-09 ~ 2017-12|빅데이터로 분석된 범죄 예측 서비스. 웹 퍼블리싱, 화면, 로직 개발|HTML, CSS, javascript, jQuery, arcGIS, DB2|
   |eAT - eAT 할인장터|2017-07 ~ 2017-08|메인, 상품 상세, 장바구니 웹 개발|HTML, CSS, javascript, jQuery, MariaDB|
   |경찰청 - 범죄분석 시스템|2016-09 ~ 2017-06|빅데이터로 분석된 범죄 예측 서비스. 웹 퍼블리싱, 화면, 로직 개발|HTML, CSS, javascript, jQuery, arcGIS, DB2|
