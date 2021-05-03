@@ -27,28 +27,36 @@ layout: about
 # 전체 프로젝트 경력 사항
 여기서는 앞서 설명하지 못한 경력 사항이나 개인 프로젝트에 대한 전체 항목들을 나열해주면 좋다. 주요 프로젝트와 마찬가지로 프로젝트 개요, 담당 역할, 성과로 구성하여 작성하면 된다.
 
+
 - 유니셈 - 유니셈IoT사업부 개발팀 플랫폼파트(과장 / 2020-09-01 ~ )
+
 
   |프로젝트명|기간|설명|사용 기술|
   |---|---|---|---|
   |Auto Labeling System|2020-01 ~ 2020-05|머신러닝 1차 라벨링한 이미지의 라벨링을 웹에서 수정, 관리|HTML5(canvas), CSS,Thymeleaf, javascript, jQuery, Bootstrap, MongoDB|
   |ITS BIKE POC|2020-09 ~ 2021-02|이륜차 위반 데이터 웹 제공|HTML, CSS, Thymeleaf, javascript, jQuery, Bootstrap, MongoDB|
 
+
 - 한컴모빌리티 - 서버개발팀(과장 / 2020-10 ~ 2020-08)
   
+
   |프로젝트명|기간|설명|사용 기술|
   |---|---|---|---|
   |파킹프렌즈 관리자 사이트 고도화 및 유지보수|2020-02 ~ 2020-08|파킹프렌즈 앱 관리자 사이트 고도화|Spring, java, HTML, javascript, jquery, Thymeleaf, css, MySQL|
   |파킹프렌즈 관리자 사이트 유지보수|2019-10 ~ 2020-02|기존 파킹프렌즈 앱 관리자사이트 유지보수|PHP, MySQL|
 
+
 - 더존비즈온 - 플랫폼개발1팀(주임연구원 / 2019-03 ~ 2019-10)
+
 
   |프로젝트명|기간|설명|사용 기술|
   |---|---|---|---|
   |DEWS 개발자 사이트|2019-08 ~ 2019-10|VUE.js, GitLab api를 이용한 웹 개발|HTML, CSS, java, VueJS, GitLab open api, javascript, jQuery|
   |DEWS 웹 플랫폼 개발 및 유지보수|2019-03 ~ 2019-10|DEWS 웹 플랫폼 개발 및 유지보수|HTML, CSS, javascript, jQuery|
 
+
 - 트리포스 - 개발팀(과장 / 2010-12 ~ 2018-10)
+
 
   |프로젝트명|기간|설명|사용 기술|
   |---|---|---|---|
