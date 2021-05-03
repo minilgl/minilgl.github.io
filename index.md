@@ -27,6 +27,10 @@ layout: about
 
 <br/>
 
+![aaa](assets/img/auto_labeling_ui.png);
+
+<br/>
+
 
 # 전체 프로젝트 경력 사항
 
