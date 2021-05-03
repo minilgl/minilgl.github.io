@@ -64,7 +64,7 @@ layout: about
   |프로젝트명|기간|설명|사용 기술|
   |:-------|:-------|:-------|:-------|
   |교원 - 교원 AI|2018-06 ~ 2018-10|Restful API 개발|java, Spring, GraphDB|
-  |더존비즈온 - DBS|2018-01 ~ 2018-04|D-Business School(경영 교육 시뮬레이션 프로그램) 웹 학습하기, 포럼, 메모 개발<br>[D-Business School](http://dbs.douzone.com/)|HTML, CSS, javascript, jQuery, MariaDB, java|
+  |더존비즈온 - DBS|2018-01 ~ 2018-04|D-Business School(경영 교육 시뮬레이션 프로그램) 반응형 웹 학습하기, 포럼, 메모 개발<br>[D-Business School](http://dbs.douzone.com/)|HTML, CSS, javascript, jQuery, MariaDB, java|
   |경찰청 - 범죄분석 시스템|2017-09 ~ 2017-12|빅데이터로 분석된 범죄 예측 서비스. 웹 퍼블리싱, 화면, 로직 개발|HTML, CSS, javascript, jQuery, arcGIS, DB2|
   |eAT - eAT 할인장터|2017-07 ~ 2017-08|메인, 상품 상세, 장바구니 웹 개발|HTML, CSS, javascript, jQuery, MariaDB|
   |경찰청 - 범죄분석 시스템|2016-09 ~ 2017-06|빅데이터로 분석된 범죄 예측 서비스. 웹 퍼블리싱, 화면, 로직 개발|HTML, CSS, javascript, jQuery, arcGIS, DB2|
