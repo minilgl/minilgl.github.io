@@ -55,7 +55,7 @@ layout: about
 
   |프로젝트명|기간|설명|사용 기술|
   |:-------|:-------|:-------|:-------|
-  |DEWS 개발자 사이트|2019-08 ~ 2019-10|VUE.js, GitLab api를 이용한 웹 개발|HTML, CSS, java, VueJS, GitLab open api, javascript, jQuery|
+  |DEWS 개발자 사이트|2019-08 ~ 2019-10|VUE.js, GitLab api를 이용한 웹 개발|HTML, CSS, java, Vue.js, GitLab open api, javascript, jQuery|
   |DEWS 웹 플랫폼 개발 및 유지보수|2019-03 ~ 2019-10|DEWS 웹 플랫폼 개발 및 유지보수|HTML, CSS, javascript, jQuery|
 
 
