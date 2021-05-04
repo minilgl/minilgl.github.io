@@ -12,23 +12,48 @@ layout: about
 
 # 주요 프로젝트
 
-모든 업무를 적는 것보다 핵심 업무를 추려 어필하는 게 효과적이다. 내가 참여한 일 중 비중이 높았던 것, 성과가 좋은 일, 나의 역량을 잘 보여줄 수 있는 일 위주로 구성하여 3개 프로젝트 이내로 소개하는 것이 좋다. 프로젝트별 슬라이드는 아래와 같이 구성한다.
-① 프로젝트 개요
-② AS-IS → TO-BE (신규 프로젝트가 아닐 경우)
-③ 담당 역할 및 성과
-④ 실제 진행했던 산출물 이미지
+### [유니셈IoT - Auto Labeling Web System]
 
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
-
-<br/>
+* 진행기간
+  * 2020.12 ~ 2021.05(진행중)
+* 주요내용
+  * Auto Labeling System 웹 개발
+  * 웹으로 이미지를 업로드 하고, 머신러닝에 라벨링 요청, 머신러닝에서 리턴받은 라벨링 이미지를 라벨러들이 웹에서 쉽게 수정, 관리할 수 있도록 하는 시스템
+* 본인이 기여한 점
+  * Cropper.js를 이용하여 이미지 라벨링 박스를 수정할 수 있는 프론트엔드 개발
+  * 라벨링 class 박스 추가, 수정, 삭제 개발
+  * 라벨링 검수, 반려 개발
+* 사용한 기술스택 및 지식
+  * HTML, CSS, javascript, jQuery, thymeleaf, MongoDB, Cropper.js
+* 결과 및 성과
+  * 1차 테스트 완료, 2차 개발(Active Learning) 예정
 
 ![aaa](assets/img/auto_labeling_ui.png)
+
+### [더존비즈온 - DEWS]
+
+* 진행기간
+  * 2019.03 ~ 2019.10
+* 주요내용
+  * DEWS 웹 플랫폼 개발 및 유지보수
+* 본인이 기여한 점
+  * 마스크텍스트박스, 문자열 마스크 적용 함수, 그리드 컬럼 마스크/개인정보 마스크 포맷 개발
+* 사용한 기술스택 및 지식
+  * HTML, CSS, javascript, jQuery
+* 결과 및 성과
+  * DEWS 개발자 문서 : http://dbs.douzone.com/docs/UI/Document
+
+### [더존비즈온 - DBS(더존 Business School)]
+* 진행기간
+  * 2018.01 ~ 2018.04
+* 주요내용
+  * 국내 최초의 경영교육 시뮬레이션 프로그램(반응형 웹)
+* 본인이 기여한 점
+  * PL, 경영교육 학습하기, 포럼, 메모 개발
+* 사용한 기술스택 및 지식
+  * HTML, CSS, javascript, jQuery, MariaDB, jsp, java
+* 결과 및 성과
+  * http://dbs.douzone.com/
 
 <br/>
 
@@ -44,7 +69,7 @@ layout: about
   |ITS BIKE POC|2020-09 ~ 2021-02|이륜차 위반 데이터 웹 제공|HTML, CSS, Thymeleaf, javascript, jQuery, Bootstrap, MongoDB|
 
 
-### 한컴모빌리티 - 서버개발팀(과장 / 2020-10 ~ 2020-08)
+### 한컴모빌리티 - 서버개발팀(과장 / 2020-10-17 ~ 2020-08-20)
   
   |프로젝트명|기간|설명|사용 기술|
   |:-------|:-------|:-------|:-------|
@@ -52,7 +77,7 @@ layout: about
   |파킹프렌즈 관리자 사이트 유지보수|2019-10 ~ 2020-02|기존 파킹프렌즈 앱 관리자사이트 유지보수|PHP, MySQL|
 
 
-### 더존비즈온 - 플랫폼개발1팀(주임연구원 / 2019-03 ~ 2019-10)
+### 더존비즈온 - 플랫폼개발1팀(주임연구원 / 2019-03-04 ~ 2019-10-16)
 
   |프로젝트명|기간|설명|사용 기술|
   |:-------|:-------|:-------|:-------|
@@ -60,7 +85,7 @@ layout: about
   |DEWS 웹 플랫폼 개발 및 유지보수|2019-03 ~ 2019-10|DEWS 웹 플랫폼 개발 및 유지보수|HTML, CSS, javascript, jQuery|
 
 
-### 트리포스 - 개발팀(과장 / 2010-12 ~ 2018-10)
+### 트리포스 - 개발팀(과장 / 2010-12-06 ~ 2018-11-01)
 
   |프로젝트명|기간|설명|사용 기술|
   |:-------|:-------|:-------|:-------|
