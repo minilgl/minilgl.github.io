@@ -17,6 +17,7 @@ type: FrontEnd
 
 ### 비고
 * 단축키 수정 필요
+* React로 개발해 볼 예정...
 
 
 ![LabelingTool](../assets/img/auto_labeling_ui.png)
