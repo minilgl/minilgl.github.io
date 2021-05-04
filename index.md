@@ -66,7 +66,7 @@ layout: about
 
   |프로젝트명|기간|설명|사용 기술|
   |:-------|:-------|:-------|:-------|
-  |Auto Labeling System|2020-01 ~ 2020-05|머신러닝 1차 라벨링한 이미지의 라벨링을 웹에서 수정, 관리<br>[Labeling Tool](https://github.com/minilgl/auto_labeling)|HTML5(canvas), CSS,Thymeleaf, javascript, jQuery, Bootstrap, Cropper.js, MongoDB|
+  |Auto Labeling System|2020-12 ~ 2021-05|머신러닝 1차 라벨링한 이미지의 라벨링을 웹에서 수정, 관리<br>[Labeling Tool](https://github.com/minilgl/auto_labeling)|HTML5(canvas), CSS,Thymeleaf, javascript, jQuery, Bootstrap, Cropper.js, MongoDB|
   |ITS BIKE POC|2020-09 ~ 2021-02|이륜차 위반 데이터 웹 제공|HTML, CSS, Thymeleaf, javascript, jQuery, Bootstrap, MongoDB|
 
 
