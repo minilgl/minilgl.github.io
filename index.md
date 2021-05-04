@@ -6,6 +6,7 @@ layout: about
 
 * 웹 개발이 재밋는 경력 10년차 `Front-end` 개발자.
 * 2020년 9월부터 현재 유니셈 - 유니셈IoT사업부 개발팀 플랫폼파트에서 Front-end를 맡아 개발하고 있습니다.
+  * 현재 Thymeleaf로 개발하고 있으나 다음 프로젝트부터는 React.js를 적용할 예정
 
 <br/>
 
